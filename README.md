@@ -1,6 +1,6 @@
 # CHESSBOARD
 
-A chess board created with Python.
+A chessboard created with Python.
 
 INSTRUCTIONS:<br/>
 (1) Download repo<br/>
